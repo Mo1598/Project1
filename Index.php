@@ -1,5 +1,9 @@
 <?php
 
-echo "Script Test";
-
-?>
+$Languages=[
+'SQL',
+'Java',
+'Python',
+'Javascript'
+]; 
+require 'index.view.php';
