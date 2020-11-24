@@ -108,10 +108,10 @@
     <br>
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <h1 class="m-0-top">Find Work</h1>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-8">
                 <form class="form-inline my-2 my-lg-0">
                     <div class="input-group mb-3">
                         <input type="text" class="form-control" placeholder="Find Jobs"
@@ -123,8 +123,81 @@
                 </form>
                 <a href="">Advanced search</a>
             </div>
-            <div class="col-md-3">
-                here
+            <div class="col-md-2">
+
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+                <ul>
+                    <li>My Feed</li>
+                    <li>Laravel</li>
+                    <li>PHP</li>
+                    <li>Recommended</li>
+                </ul>
+                <h4 style="font-size: 17px;">Recent Searches</h4>
+                <ul>
+                    <li>Laravel</li>
+                    <li>PHP</li>
+                    <li>Python</li>
+                    <li>vb.net</li>
+                    <li>Java timetable</li>
+                </ul>
+                <label for="">My Categories</label>
+                <ul>
+                    <li>Web Development</li>
+                    <li>Desktop Development</li>
+                    <li>Mobile Development</li>
+                </ul>
+            </div>
+            <div class="col-md-8">
+                <div class="card">
+                    <h5 class="card-header">Featured</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <h5 class="card-header">Featured</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <h5 class="card-header">Featured</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <h5 class="card-header">Featured</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">Special title treatment</h5>
+                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="media m-sm-bottom">
+                    <a href="http://">
+                        <img src="img/profpic.png" alt="" srcset="" class="profile-image">
+                    </a>
+                    <div class="media-body">
+                        <h4 class="m-0 display-inline-block"
+                            style="font-size:16px;  padding-top: 0.5rem;     padding-left: 0.4rem;">My
+                            Profile</h4>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
