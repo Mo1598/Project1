@@ -22,4 +22,45 @@
     font-weight: var(--heading-weight);
     margin-left: 2rem;
 }
+.card {
+    border-style: none !important;
+    color: #212529 !important;
+}
+.link{
+    color: #656565 !important;
+}
+.job-title{
+    border-style: none !important;
+    background-color: white;
+}
+.job-title:hover{
+    text-decoration: underline !important;
+    color: #008329 !important;
+}
+.content:hover{
+    color: #656565 !important;
+}
+
+.tags {
+    background-color: whitesmoke;
+    color: #1d4354;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 12px;
+    line-height: 12px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    padding: 4px;
+    text-decoration: none !important;
+    margin-top: 0.5rem;
+}
+.tags:hover{
+    background-color: #e0e0e0;
+}
+.proposals{
+    margin-top: 00.5rem;
+}
+/* .link:hover{
+    color: #008329 !important;
+} */
 /* end of navbar styling */

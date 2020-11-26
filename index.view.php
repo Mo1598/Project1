@@ -154,38 +154,65 @@
                 </ul>
             </div>
             <div class="col-md-8">
-                <div class="card">
-                    <h5 class="card-header">Featured</h5>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a class="link" style="text-decoration:none !important;" href="http://" target="_blank"
+                    rel="noopener noreferrer">
+                    <div class="card">
+                        <h5 class="card-header job-title">PHP Script to extract QR code </h5>
+                        <div class="card-body content">
+                            <h5 class="card-title" style="font-size:15px;"><span
+                                    style="font-size:15px; font-weight:bold;">Hourly $15-$30</span>
+                                <spanstyle="font-size:13px;>-Intermediate -Est
+                                    Time Less than 1month, 10-30hrs/week -posted 28minutes ago</span>
+                            </h5>
+                            <p class="card-text">With supporting text below as a natural lead-in to additional content.
+                            </p>
+                            <div class="skills">
+                                <a href="http://"><span class="tags">Linux</span></a>
+                                <a href="http://"><span class="tags">API</span></a>
+                                <a href="http://"><span class="tags">PHP</span></a>
+                                <a href="http://"><span class="tags">RESTful API</span></a>
+                                <a href="http://"><span class="tags">SQL</span></a>
+                            </div>
+                            <div class="proposals">
+                                <span style="font-size: 14px;">Proposals</span>
+                                <span style="font-weight: bold; font-size: 14px; color:black !important;">Less than
+                                    5</span>
+                            </div>
+                            <div class="verification">
+                                <span style="font-size: 14px"><svg width="1em" height="1em" viewBox="0 0 16 16"
+                                        class="bi bi-patch-check-fll" fill="currentColor"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd"
+                                            d="M10.067.87a2.89 2.89 0 0 0-4.134 0l-.622.638-.89-.011a2.89 2.89 0 0 0-2.924 2.924l.01.89-.636.622a2.89 2.89 0 0 0 0 4.134l.637.622-.011.89a2.89 2.89 0 0 0 2.924 2.924l.89-.01.622.636a2.89 2.89 0 0 0 4.134 0l.622-.637.89.011a2.89 2.89 0 0 0 2.924-2.924l-.01-.89.636-.622a2.89 2.89 0 0 0 0-4.134l-.637-.622.011-.89a2.89 2.89 0 0 0-2.924-2.924l-.89.01-.622-.636zm.287 5.984a.5.5 0 0 0-.708-.708L7 8.793 5.854 7.646a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0l3-3z" />
+                                    </svg> Payment verified</span>
+                                <span style="font-size: 12px; margin-left: 5px;"><svg width="1em" height="1em" viewBox="0 0 16 16"
+                                        class="bi bi-star-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                    </svg> <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-star-fill"
+                                        fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                    </svg> <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-star-fill"
+                                        fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                    </svg> <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-star-fill"
+                                        fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                    </svg> <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-star-fill"
+                                        fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+                                    </svg> </span>
+                                    <span style="font-size: 14px; margin-left: 5px;"><b style="font-size:12px;">$10k+</b>spent</span>
+                                    <span style="font-size:14px; margin-left: 5px;"><i class="fas fa-map-marker-alt"></i> United Kingdom</span>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="card">
-                    <h5 class="card-header">Featured</h5>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <h5 class="card-header">Featured</h5>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <h5 class="card-header">Featured</h5>
-                    <div class="card-body">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
+                </a>
+
             </div>
             <div class="col-md-2">
                 <div class="media m-sm-bottom">
