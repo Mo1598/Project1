@@ -154,17 +154,19 @@
                 </ul>
             </div>
             <div class="col-md-8">
+
+                <?php foreach ($jobs as $job) : ?>
+
                 <a class="link" style="text-decoration:none !important;" href="http://" target="_blank"
                     rel="noopener noreferrer">
                     <div class="card">
-                        <h5 class="card-header job-title">PHP Script to extract QR code </h5>
+                        <h5 class="card-header job-title"><?= $job->title;?> </h5>
                         <div class="card-body content">
                             <h5 class="card-title" style="font-size:15px;"><span
-                                    style="font-size:15px; font-weight:bold;">Hourly $15-$30</span>
-                                <spanstyle="font-size:13px;>-Intermediate -Est
-                                    Time Less than 1month, 10-30hrs/week -posted 28minutes ago</span>
+                                    style="font-size:15px; font-weight:bold;"><?= $job->price;?></span>
+                                <spanstyle="font-size:13px;>-<?= $job->dedicated_to;?> <?= $job->est_time;?> <?= $job->hours;?> -posted 28minutes ago</span>
                             </h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.
+                            <p class="card-text"><?= $job->description;?>
                             </p>
                             <div class="skills">
                                 <a href="http://"><span class="tags">Linux</span></a>
@@ -212,6 +214,8 @@
                         </div>
                     </div>
                 </a>
+
+                <?php endforeach;?> 
 
             </div>
             <div class="col-md-2">
